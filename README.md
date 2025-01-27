@@ -1,4 +1,4 @@
-# Tienso - Segunda parte
+# Tomás Weinstabl - Segunda entrega
 
 La primera parte del proyecto constó en averiguar qué temáticas de contenido genera @tienso_ok para youtube y en función de la performance de cada una de ellas, sugerir al creador una temática a seguir para poder hacer crecer su canal de la manera más rápida posible.
 
